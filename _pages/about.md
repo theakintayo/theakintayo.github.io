@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: MS student in Engineering Artificial Intelligence, <a href='https://www.africa.engineering.cmu.edu/'>Carnegie Mellon University Africa</a>
 

@@ -2,9 +2,12 @@
 layout: page
 title: AI-Enabled Digital Twin for Adaptive Coagulant Dosing
 description: Predicting daily alum dosing for a drinking water treatment plant from 13 years of operational data
+img: assets/img/projects/coagulant_dosing.jpg
 importance: 1
 category: research
 ---
+
+<img class="project-cover" src="{{ '/assets/img/projects/coagulant_dosing.jpg' | relative_url }}" alt="Live alum-dose prediction dashboard with uncertainty bands">
 
 **July 2026 – present** · Presented as a poster on 15 October 2026 at the CMU-Africa Workshop on AI, Digital Systems, and Infrastructure Systems
 

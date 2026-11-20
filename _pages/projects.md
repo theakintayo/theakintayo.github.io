@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Research and engineering projects in AI, digital twins, and water and environmental systems.
 nav: true

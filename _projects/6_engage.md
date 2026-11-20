@@ -2,9 +2,12 @@
 layout: page
 title: "Engage: Reshaping Engineering Education"
 description: People's Prize winner, Reshaping Engineering 2024 (Engineers Without Borders UK)
+img: assets/img/projects/engage.jpg
 importance: 1
 category: other
 ---
+
+<img class="project-cover" src="{{ '/assets/img/projects/engage.jpg' | relative_url }}" alt="Mentors page of the Engage platform">
 
 **January – March 2024** · Team Lead
 

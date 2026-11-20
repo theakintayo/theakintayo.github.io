@@ -2,10 +2,13 @@
 layout: page
 title: Railway Crossing Digital Twin System
 description: Uncertainty-aware, real-time railway-crossing monitoring with MQTT and Streamlit
+img: assets/img/projects/railway_crossing.jpg
 importance: 1
 category: course projects
 github: https://github.com/theakintayo/RailwayCrossingDigitalTwinSystem
 ---
+
+<img class="project-cover" src="{{ '/assets/img/projects/railway_crossing.jpg' | relative_url }}" alt="Illustration of a train approaching a monitored railway crossing">
 
 **April 2026**
 

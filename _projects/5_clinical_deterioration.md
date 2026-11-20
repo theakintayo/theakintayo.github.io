@@ -2,9 +2,12 @@
 layout: page
 title: Condition-Aware Risk Prediction for Clinical Deterioration
 description: Multi-horizon ML and deep learning on MIMIC-IV, with explainable deployment
+img: assets/img/projects/clinical_deterioration.jpg
 importance: 2
 category: course projects
 ---
+
+<img class="project-cover" src="{{ '/assets/img/projects/clinical_deterioration.jpg' | relative_url }}" alt="Illustration of vital-sign monitoring with a deterioration risk score">
 
 **January – April 2026**
 

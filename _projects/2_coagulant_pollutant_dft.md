@@ -2,9 +2,12 @@
 layout: page
 title: Coagulant–Pollutant Binding from First Principles
 description: Machine learning on DFT-derived molecular descriptors to predict coagulant efficacy
+img: assets/img/projects/coagulant_pollutant.jpg
 importance: 2
 category: research
 ---
+
+<img class="project-cover" src="{{ '/assets/img/projects/coagulant_pollutant.jpg' | relative_url }}" alt="Binding energies of 13 pollutants with chitosan from DFT, AutoDock Vina and AMBER">
 
 **January 2026 – present** · Research Assistant, CMU-Africa (PI: Prof. Ismaila Dabo)
 
