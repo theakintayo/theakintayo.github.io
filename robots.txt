@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://theakintayo.github.io/sitemap.xml
